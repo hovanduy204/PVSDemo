@@ -24,7 +24,11 @@
       }
     },
     "plugins": [],
-    "scheme": "thuphipvs"
+    "scheme": "thuphipvs",
+    "extra": {
+      "eas": {
+        "projectId": "62608b16-cc9b-4a69-a750-c79a7ef55098"
+      }
+    }
   }
 }
-
